@@ -129,6 +129,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/reqres_app](https://github.com/yourusername/reqres_app) 
+Your Name - sonalirane2812@gmail.com
