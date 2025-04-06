@@ -129,4 +129,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - sonalirane2812@gmail.com
+Email - sonalirane2812@gmail.com
+Project Link: https://github.com/sona2812/User_Management
